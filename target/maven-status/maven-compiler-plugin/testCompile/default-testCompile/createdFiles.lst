@@ -1,0 +1,8 @@
+com\codealpha\chatbot\engine\ChatbotEngineTest.class
+com\codealpha\chatbot\nlp\SimilarityMatcherTest.class
+com\codealpha\chatbot\service\FAQServiceTest.class
+com\codealpha\chatbot\nlp\TextNormalizerTest.class
+com\codealpha\chatbot\storage\CSVStorageTest.class
+com\codealpha\chatbot\engine\ConfidenceScorerTest.class
+com\codealpha\chatbot\nlp\TokenizerTest.class
+com\codealpha\chatbot\engine\IntentRecognizerTest.class
